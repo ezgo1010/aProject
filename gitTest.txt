@@ -1,4 +1,9 @@
-ddd
+Backtracking to a commit:
+git reset SHA -> git reset --hard -> git push -f origin branch_name
+
+Getting updates:
+git fetch --all -> git reset --hard origin/master
+
 Basic Git Workflow:
 You have now been introduced to the fundamental Git workflow. You learned a lot! Let's take a moment to generalize:
 
