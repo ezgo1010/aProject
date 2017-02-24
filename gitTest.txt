@@ -1,4 +1,3 @@
-ee
 Basic Git Workflow:
 You have now been introduced to the fundamental Git workflow. You learned a lot! Let's take a moment to generalize:
 
